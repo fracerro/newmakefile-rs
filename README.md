@@ -17,7 +17,7 @@ mv target/release/newmakefile
 ## Configuration
 Templates must be placed in $HOME/.config/newmakefile.
 A template needs two files:
-* __template-name__.json -> where to put keywords and the text file name
-* __text-file__ -> where to put the actual text with keywords that will be replaced
+* *template-name*.json -> where to put keywords and the text file name
+* *text-file* -> where to put the actual text with keywords that will be replaced
 
 An example can be found in the example-template folder.
