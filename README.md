@@ -4,7 +4,7 @@ Tool to quickly create makefiles based on user-defined templates
 ## Build
 Clone the repo and build with cargo:
 ```
-git clone https://github.com/fracerro/newmakefile-rs
+git clone https://github.com/fracerro/newmakefile-rs.git
 cd newmakefile-rs
 cargo build --release
 ```
