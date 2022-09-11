@@ -11,7 +11,7 @@ cargo build --release
 
 Then move the executable into /usr/local/bin:
 ```
-mv target/release/newmakefile
+mv target/release/newmakefile /usr/local/bin/
 ```
 
 ## Configuration
