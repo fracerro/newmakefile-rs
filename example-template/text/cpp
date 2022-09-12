@@ -1,0 +1,10 @@
+all: compile run
+
+compile:
+	g++ SOURCEFILES -o EXECUTABLE
+
+run:
+	./EXECUTABLE
+
+clean:
+	rm EXECUTABLE
